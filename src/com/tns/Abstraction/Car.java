@@ -7,6 +7,8 @@ public class Car extends Vehicle {
 		this.vehicleType = vehicleType;
 		
 	}
+	
+	
 	@Override
 	void call(){
 	setVehicleName("Car");
