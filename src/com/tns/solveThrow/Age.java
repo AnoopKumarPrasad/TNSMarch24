@@ -1,4 +1,4 @@
-package com.tns.solve;
+package com.tns.solveThrow;
 
 public class Age extends Exception{
 	Age(String str) {
